@@ -86,7 +86,7 @@ const ShopContextProvider = (props) => {
       image: image4,
       quantity: 1,
       bestseller: true,
-      category: "Rose Gold",
+      category: "Pink Gold",
       description:
         "Rose Gold Earrings are a stylish and elegant accessory that combines the warmth of gold with a soft, romantic pink hue. Their delicate color adds a touch of sophistication, making them perfect for both everyday wear and special occasions. Whether in the form of hoops, studs, or dangling designs, rose gold earrings bring a timeless charm and modern elegance to any jewelry collection.",
       subCategory: "Earrings",
@@ -134,7 +134,7 @@ const ShopContextProvider = (props) => {
       image: image8,
       quantity: 1,
       bestseller: true,
-      category: "Rose Gold",
+      category: "Pink Gold",
       description:
         "The Rose Gold Labyrinth Necklace is a stunning piece that combines the elegance of rose gold with a captivating labyrinth design. Its intricate pattern symbolizes complexity and mystery, making it a unique statement accessory. Perfect for both everyday wear and special occasions, this necklace adds a touch of sophistication and modern charm to any outfit, offering a subtle yet stylish way to stand out.",
       subCategory: "Necklaces",
