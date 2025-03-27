@@ -1,12 +1,19 @@
-# React + Vite
+## Jewelry E-Commerce Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a **React.js** e-commerce website for selling jewelry, built with **Vite**. It includes functionalities for **filtering, sorting, searching, and adding products to the cart**. The site has pages for **home, collection, about, contact, checkout, and my orders**. The design is **responsive** and built using **Tailwind CSS**.  
 
-Currently, two official plugins are available:
+### 📂 Project Structure:
+- **`src/components`** – Reusable components (`Navbar.jsx`, `Hero.jsx`, `ProductItem.jsx`, etc.)  
+- **`src/context`** – Global state management (`ShopContext.jsx`)  
+- **`src/pages`** – Main pages (`Home.jsx`, `Collection.jsx`, `Cart.jsx`, etc.)  
+- **`src/pics`** – Images used in the project  
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### ⚙️ Technologies Used:
+- **React.js & Vite** for fast and efficient development  
+- **Context API** for state management  
+- **Tailwind CSS** for styling  
 
-## Expanding the ESLint configuration
+### 🔗 Live Preview:
+[Jewelry E-Commerce Website](https://adrianav1999.github.io/jeweler-site)  
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+The project provides a **structured and responsive** shopping experience with essential e-commerce features.
