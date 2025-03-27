@@ -15,5 +15,3 @@ This is a **React.js** e-commerce website for selling jewelry, built with **Vite
 
 ### Live Preview:
 [Jewelry E-Commerce Website](https://adrianav1999.github.io/jeweler-site)  
-
-The project provides a **structured and responsive** shopping experience with essential e-commerce features.
